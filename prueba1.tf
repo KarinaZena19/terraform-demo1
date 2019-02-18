@@ -28,4 +28,5 @@ resource "aws_instance" "vm-prueba01" {
   Name="vm-kzena"
   }
   ##Agrege esta linea de prueba 18/02/2019 5:36pm
+  ##Otra modificacion
 }
